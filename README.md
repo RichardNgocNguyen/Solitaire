@@ -1,7 +1,7 @@
 # Solitaire
 
 ## Description
-A program with create, shuffle, and display deck test functions. Fibonacci Solitaire is a game where the goal is to create piles that add up to any fibonacci number and there is no remaining cards left in the deck.
+A program with create, shuffle, and display deck test functions. Fibonacci Solitaire is a game where the goal is to create piles that add up to any fibonacci number and have no remaining cards left in the deck.
 
 ```
         Fibonacci Solitaire!
